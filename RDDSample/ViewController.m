@@ -26,6 +26,7 @@
     // Release any retained subviews of the main view.
     
     //RDD sample hehehe ^^
+    //CY e2 oh ^^
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation

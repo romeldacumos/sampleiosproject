@@ -27,6 +27,7 @@
     
     //RDD sample hehehe ^^
     //CY e2 oh ^^
+    //hehehehehehehe
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
